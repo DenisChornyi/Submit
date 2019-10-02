@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9e959b7-7d35-41d8-a86d-28e0faff870e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1P2s4FPYAO8s6JOWAHsLIn4QnfE" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9e959b7-7d35-41d8-a86d-28e0faff870e" name="Default Changelist" comment="" />
+      <created>1565083333379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565083333379</updated>
+      <workItem from="1565083338315" duration="4515000" />
+      <workItem from="1565122498480" duration="36000" />
+      <workItem from="1566292289276" duration="13105000" />
+      <workItem from="1566394506482" duration="5293000" />
+      <workItem from="1566578899954" duration="4192000" />
+      <workItem from="1566645035897" duration="2990000" />
+      <workItem from="1566668883558" duration="1423000" />
+      <workItem from="1566735785384" duration="1722000" />
+      <workItem from="1567175815596" duration="2138000" />
+      <workItem from="1567412137825" duration="1553000" />
+      <workItem from="1567510166843" duration="11913000" />
+      <workItem from="1567583588022" duration="20000" />
+      <workItem from="1567588055005" duration="5539000" />
+      <workItem from="1567674007292" duration="1556000" />
+      <workItem from="1567691182327" duration="9846000" />
+      <workItem from="1567703827034" duration="6581000" />
+      <workItem from="1567763269975" duration="13170000" />
+      <workItem from="1567779581780" duration="3442000" />
+      <workItem from="1567789602763" duration="6444000" />
+      <workItem from="1567855503837" duration="8128000" />
+      <workItem from="1567875102917" duration="3828000" />
+      <workItem from="1568224229845" duration="785000" />
+      <workItem from="1568548926590" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

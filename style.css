@@ -1,0 +1,64 @@
+.form{
+    width: 300px;
+    margin: 50px auto;
+    border: 3px solid grey;
+    padding: 10px 70px;
+    border-radius: 5px;
+}
+.form1{
+    width: 250px;
+    margin: 0;
+
+}
+.main1r{
+    background-color: blue;
+    height: 20px;
+    border-radius: 10px;
+    transition: width 1s;
+}
+.main{
+    width: 280px;
+    height: 20px;
+    background-color: cadetblue;
+    border-radius: 10px;
+}
+input{
+    width: 250px;
+    height: 20px;
+    border-radius: 5px;
+    border: 2px solid darkgrey;
+    padding-left: 20px;
+}
+button{
+    height: 40px;
+    background: powderblue;
+    border: 2px solid blue;
+    border-radius: 5px;
+    margin: 5px 20px;
+}
+.my-info{
+    color: red;
+}
+.my-warning{
+    color: blue;
+}
+.table-some{
+    color: white;
+    background:  black;
+}
+.true{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: green;
+    color: white;
+    padding: 2px 4px;
+}
+.false{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    padding: 2px 4px;
+}

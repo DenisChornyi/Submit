@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="form">
+    <div v-if="!form">
+        <div class="main">
+            <div class="main1r"
+                 :style="progressWidth"></div>
+        </div>
+        <div v-for="(item, index) in info">
+            <h3>{{item.name}}</h3>
+            <span v-if="controls[index].activated"
+                  :class="controls[index].error ?
+        'false' : 'true'">+</span>
+            <input type="text" :value="item.value"
+                   @input="onInput(index, $event.target.value)">
+        </div>
+        <hr >
+        <button
+                @click.prevent="form = true"
+                :disabled="done < info.length"
+        >Send Data</button>
+    </div>
+    <div v-else="form">
+        <table>
+            <tr v-for="(item, index) in info">
+                <td>{{item.name}}</td>
+                <td>{{item.value}}</td>
+            </tr>
+        </table>
+    </div>
+
+</div>
+
+</body>
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="main.js"></script>
+</html>
